@@ -1,0 +1,36 @@
+# 📘 Day 2 – Conditional Statements
+
+## 🔹 Overview
+Day 2 focuses on learning **If, If-Else, and Else-If** conditional statements in RPA.  
+- **If** → Executes code only when a condition is true.  
+- **If-Else** → Executes one block if true, another if false.  
+- **Else-If** → Checks multiple conditions in sequence.  
+
+---
+
+## 🔹 Tasks Completed
+
+### If Condition
+1. Check if a number is positive  
+2. Verify if a string is not empty  
+3. Check if today’s date matches a specified date  
+
+### If-Else Condition
+5. Check if a number is even or odd  
+6. Validate if a string starts with “A”  
+7. Verify if temperature is above 30°C  
+8. Check if string length is greater than 5  
+
+### Else-If Condition
+9. Student grade evaluation  
+10. Categorize a number (Negative, Zero, Positive)  
+11. Leap year check  
+12. Employee validation workflow  
+
+---
+
+## 📝 Summary
+- **If** → Single condition check  
+- **If-Else** → Two-way decision making  
+- **Else-If** → Multiple condition checks  
+- Day 2 tasks strengthened skills in **decision making and conditional logic**.  
