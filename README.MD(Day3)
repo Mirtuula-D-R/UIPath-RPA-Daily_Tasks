@@ -1,0 +1,37 @@
+# 📘 Day 3 – Collections (Lists & Arrays), Looping Statements 
+
+## 🔎 Overview
+On Day 3, I explored **collections (Lists & Arrays)** and applied **looping constructs** in UiPath.  
+- **List:** A dynamic collection that can grow or shrink. Datatype → `List<T>` (e.g., `List<String>`, `List<Int32>`).  
+- **Array:** A fixed-size collection of elements of the same type. Datatype → `Array` (e.g., `String[]`, `Int32[]`).  
+- **Loops:** Used for iteration and control flow. Types include `For Each`, `While`, and `Do While`.  
+
+These exercises enhanced my skills in data handling, iteration, and validation for automation workflows.
+
+---
+
+## ✅ Tasks Completed
+
+### List
+- Fruits list check ("Apple Found")  
+- Sum of numbers 1–10  
+- Names list check ("John is in the list")  
+- Clear all items  
+
+### Array
+- Largest number in array  
+- Sort strings alphabetically  
+- Average of 5 numbers  
+- Reverse array elements  
+
+### Looping Statements
+- Sum of n numbers  
+- Random number generation (1–99)  
+- Countdown timer (10 to 1)  
+- Employee salary eligibility validation  
+
+---
+
+## 📝 Summary
+Practiced **creating, manipulating, and validating Lists and Arrays**, along with **looping statements** for iteration and control.  
+Key takeaways include handling dynamic collections, performing calculations, and applying loops for real-world automation scenarios.
